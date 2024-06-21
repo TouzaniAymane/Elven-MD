@@ -10,9 +10,9 @@ global.premium = []
 global.blockList = []  
 
 //---------[ NOMBRE/INFO ]---------
-global.botname = "𝐘𝐮𝐆𝐢-𝐁𝐎𝐓[𝐌𝐃]"
-global.wm = '𝐘𝐮𝐆𝐢-𝐁𝐎𝐓 🌍'
-global.vs = '1.1.0'
+global.botname = "Elven-Bot[𝐌𝐃]"
+global.wm = 'Elven-Bot 🌍'
+global.vs = '1.0.0'
 
 //Función beta : escribe el número que quiere que sea bot para que mande el Código de 8 digitos
 global.botNumberCode = "" //Ejemplo: +59309090909
@@ -71,7 +71,7 @@ global.APIKeys = {
 };
  
 //---------[ STICKERS ]---------
-global.packname = "𝐘𝐮𝐆𝐢-𝐁𝐎𝐓[𝐌𝐃]"
+global.packname = "Elven-Bot[𝐌𝐃]"
 global.author = `${vs}`
  
 //---------[ IMAGEN ]---------
@@ -81,12 +81,12 @@ global.imagen3 = fs.readFileSync('./media/menu3.jpg')
 global.noperfil = fs.readFileSync('./media/sinfoto.jpg')
 
 //---------[ ENLACES ]---------
-global.md = 'https://github.com/Eliasar54/YuGi-BOT-1.2.git'
-global.yt = 'https://www.youtube.com/@Eliasar_yt'
-global.tiktok = 'https://www.tiktok.com/@eliasar_yt?_t=8mjJpoJfOBK&_r=1'
-global.fb = 'https://www.facebook.com/profile.php?id=100087710532984&mibextid=kFxxJD'
-global.faceb = 'https://www.facebook.com/profile.php?id=100087710532984&mibextid=kFxxJD'
-global.paypal = 'https://www.paypal.me/EliasarMoncada72' 
+global.md = 'https://github.com/TouzaniAymane/Elven-MD.git'
+global.yt = 'https://www.youtube.com/@tzaym1'
+global.tiktok = 'https://www.tiktok.com/@tzaym1?_t=8mjJpoJfOBK&_r=1'
+global.fb = 'https://www.facebook.com/gxaymenofcjkg'
+global.faceb = 'https://www.facebook.com/gxaymenofcjkg'
+global.paypal = 'https://www.instagram.com/gxaymenofcjkg' 
 
 global.host = 'https://chat.whatsapp.com/GQ82mPnSYnm0XL2hLPk7FV' //Infinity-host
 global.nna = 'https://whatsapp.com/channel/0029VadnbrgBVJlB50Se1n0j' //Update 
